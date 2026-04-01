@@ -68,3 +68,9 @@ footer {
     font-size: 0.8rem;
     color: #888;
 }
+.logo {
+    display: block; /* Mərkəzləşdirmək üçün */
+    margin: 0 auto 20px auto; /* Yuxarı-aşağı məsafə, sol-sağ mərkəz */
+    max-width: 150px; /* Loqonun maksimum genişliyi (istəyə görə dəyişə bilərsiniz) */
+    height: auto; /* Hündürlüyü proporsional olaraq tənzimləyir */
+}
